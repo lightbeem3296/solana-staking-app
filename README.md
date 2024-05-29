@@ -1,1 +1,1 @@
-# 005.solana-staking-app
+# solana-staking-app
