@@ -1,4 +1,4 @@
-// #![fg(feature="test-bpf")]
+#![cfg(feature="test-bpf")]
 use borsh::{BorshDeserialize, BorshSerialize};
 use solana_program::{instruction::Instruction, pubkey::Pubkey};
 use solana_sdk::{
